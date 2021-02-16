@@ -1,0 +1,171 @@
+body{
+  background-color: #4747d1;
+  text-align: center;
+}
+
+/*vloume, logo and sub-logo*/
+
+.volume-button1{
+  width: 50px;
+  height: 50px;
+  float: left;
+}
+
+#logo{
+  width: 600px;
+  height: 150px;
+  margin: auto;
+}
+
+.sub-logo{
+  width: 50px;
+  height: 50px;
+  margin-top: -20px;
+}
+
+
+/* middle boxes*/
+
+.main-box{
+  width: 820px;
+  height: 620px;
+  margin: auto;
+}
+
+.box1{
+  background-color: white;
+  width: 400px;
+  height: 320px;
+  float: left;
+  margin-top: 20px;
+}
+.pencil{
+  width: 25px;
+  float: left;
+  margin-left: 10px;
+  margin-top: 3px;
+}
+hr{
+  margin-top: 45px;
+  height: 1px;
+  background-color: #ccc;
+  border: none;
+}
+input{
+  width: 286px;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+select{
+  width: 80px;
+  height: 34px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-left: 2px;
+}
+.user-emoji-box{
+  width: 380px;
+  height: 130px;
+  border: 1px solid #ccc;
+  margin: 7px auto auto auto;
+}
+.user-emoji-dice{
+  float: right;
+  width: 30px;
+  margin: 4px 4px 0 0;
+}
+.user-emoji-turtle{
+  margin-top: -13px;
+  width: 150px;
+  height: 150px;
+}
+.button1{
+  border: none;
+  border-radius: 5px;
+  background-color: #5cd65c;
+  color: white;
+  width: 380px;
+  height: 40px;
+  font-size: 17px;
+}
+.button1:hover{
+  background-color: #2eb82e;
+}
+.button2{
+  border: none;
+  border-radius: 5px;
+  background-color: #4db8ff;
+  color: white;
+  width: 380px;
+  height: 36px;
+  font-size: 17px;
+  margin-top: 3px;
+}
+.button2:hover{
+  background-color: #008ae6;
+}
+
+
+
+.box2{
+  background-color: white;
+  width: 400px;
+  height: 620px;
+  float: right;
+  margin-top: 20px;
+}
+.QA{
+  margin-top: 6px;
+  width: 30px;
+}
+.ads-container{
+  width: 400px;
+  height: 220px;
+}
+.google_logo{
+  width: 40px;
+  margin-top: 100px;
+}
+.news-box{
+  text-align: left;
+}
+.green-box{
+  margin-top: -20px;
+  margin-left: 8px;
+  margin-right: 8px;
+  background-color: #9fff80;
+  color: #1a6600;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: left;
+  font-size: 14px;
+}
+.news-align{
+  padding-top: .5px;
+  padding-bottom: .5px;
+  margin: 10px;
+}
+
+
+
+/*Last two line(content terms and user responsibility)*/
+.disclaimer{
+  margin-top: 50px;
+}
+.content{
+  color: #80bfff;
+}
+.last-line{
+  color: #b3b3cc;
+  font-size: 12px;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: -15px;
+}
+
+
+.credits{
+  color: white;
+  margin-top: -30px;
+  float: left;
+  font-family: 'Red Rose', cursive;
+}
